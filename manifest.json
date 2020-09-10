@@ -1,0 +1,6 @@
+{
+  "name": "MobilityAdVoting",
+  "description": "A DAO for community managed ad campaign featuring and blacklisting",
+  "script": "/script.js",
+  "start_url": "/index.html"
+}

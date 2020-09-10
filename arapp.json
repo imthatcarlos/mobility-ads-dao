@@ -1,0 +1,16 @@
+{
+  "roles": [
+    {
+      "name": "Community role to feature + blacklist campaigns",
+      "id": "COMMUNITY_ROLE",
+      "params": []
+    }
+  ],
+  "environments": {
+    "default": {
+      "network": "localhost",
+      "appName": "mobilityadvoting.aragonpm.eth"
+    }
+  },
+  "path": "contracts/MobilityAdVoting.sol"
+}
